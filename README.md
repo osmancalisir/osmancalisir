@@ -1,5 +1,6 @@
 <html>
   <head>
+    <style>
       a {
         text-decoration: none;
         color: #6F6F6F;
