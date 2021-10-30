@@ -9,5 +9,7 @@
     <a href="http://cv.osmancalisir.com/" target="_blank" style="text-decoration: none;color: #6F6F6F;"><i class="far fa-file"></i> My up-to date resume</a>
     <br />
     <a href="http://pt.osmancalisir.com/" target="_blank" style="text-decoration: none;color: #6F6F6F;"><i class="far fa-user"></i> My Personality test</a>
+    <br />
+    <a href="https://calendly.com/osmancalisir" target="_blank" style="text-decoration: none;color: #6F6F6F;"><i class="fab fa-meetup"></i> My Personality test</a>
   </body>
 </html>
